@@ -51,7 +51,7 @@ function renderProjects(filter = 'all') {
 
         projectCard.innerHTML = `
             <div class="project-image">
-                <img src="${project.image}" alt="${project.title}">
+                <a href="${project.image}"><img src="${project.image}" alt="${project.title}"></a>
                 ${project.featured ? '<div class="project-featured">FEATURED</div>' : ''}
                 <div class="project-overlay"></div>
             </div>
@@ -138,3 +138,4 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         }
     });
 });
+
