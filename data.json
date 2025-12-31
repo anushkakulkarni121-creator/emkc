@@ -9,7 +9,8 @@
       "plotSize": "50X20 ft",
       "style": "Contemporary",
       "featured": true,
-      "image": "https://raw.githubusercontent.com/anushkakulkarni121-creator/emkc/refs/heads/main/projects-data/ASHOK%20BORKHEDE/WhatsApp%20Image%202021-08-21%20at%202.06.05%20PM.jpeg"
+      "image": "https://raw.githubusercontent.com/anushkakulkarni121-creator/emkc/refs/heads/main/projects-data/ASHOK%20BORKHEDE/WhatsApp%20Image%202021-08-21%20at%202.06.05%20PM.jpeg",
+      "url":"blob:https://github.com/0aaf4661-7179-4f45-b014-395aa04af214"
     },
     {
       "id": 2,
@@ -83,4 +84,5 @@
     }
   ]
 }
+
 
