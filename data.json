@@ -2,14 +2,14 @@
   "projects": [
     {
       "id": 1,
-      "title": "Modern Villa",
+      "title": "Mauli Villa",
       "category": "residential",
-      "bhk": 4,
-      "area": "2500 sq.ft",
-      "plotSize": "40x60 ft",
+      "bhk": 2,
+      "area": "1000 sq.ft",
+      "plotSize": "50X20 ft",
       "style": "Contemporary",
       "featured": true,
-      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=400&h=300&fit=crop"
+      "image": "https://raw.githubusercontent.com/anushkakulkarni121-creator/emkc/refs/heads/main/projects-data/ASHOK%20BORKHEDE/WhatsApp%20Image%202021-08-21%20at%202.06.05%20PM.jpeg"
     },
     {
       "id": 2,
@@ -83,3 +83,4 @@
     }
   ]
 }
+
